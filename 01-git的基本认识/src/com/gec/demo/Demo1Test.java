@@ -10,5 +10,8 @@ public interface Demo1Test {
 	
 	// 张三新加的aaxx方法
 	void aaax();
+	
+	
+	void zhangsan();
 
 }
