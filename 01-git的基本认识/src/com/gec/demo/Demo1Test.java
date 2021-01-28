@@ -6,5 +6,9 @@ public interface Demo1Test {
 	
 	// 张三aaa 
 	void aaa();
+	
+	
+	// 张三新加的aaxx方法
+	void aaax();
 
 }
