@@ -6,6 +6,8 @@ public interface Demo1Test {
 	void updateUser();
 
 	
+	void addUser();
+	
 	
 
 }
