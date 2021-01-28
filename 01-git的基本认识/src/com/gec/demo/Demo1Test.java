@@ -13,5 +13,8 @@ public interface Demo1Test {
 	
 	
 	void zhangsan();
+	
+	
+	void lisi_bb();
 
 }
